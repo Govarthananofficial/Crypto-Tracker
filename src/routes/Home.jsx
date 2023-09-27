@@ -72,14 +72,14 @@ const Home = () => {
           </Flex>
           <Alert status="success" fontSize="sm" borderRadius="md">
             <AlertIcon />
-            Api provided by&nbsp;
+            Project Done By&nbsp;
             <Link
               fontWeight="semibold"
               color={color}
-              href="https://www.coingecko.com/"
+              href="https://govarthanan.netlify.app/"
               isExternal
             >
-              CoinGecko
+              Govarthanan
             </Link>
           </Alert>
         </>

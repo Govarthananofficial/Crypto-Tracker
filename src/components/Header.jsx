@@ -11,7 +11,7 @@ import Search from './Search';
 import { useColorModeValue } from '@chakra-ui/color-mode';
 import { Link as RouterLink } from 'react-router-dom';
 import { Image } from '@chakra-ui/react';
-import Logo from '../assets/logo.png';
+import Logo from '../assets/logo-01-02-01-01.svg';
 
 const Header = () => {
   const borderColor = useColorModeValue('gray.100', 'gray.800');
